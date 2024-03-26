@@ -1,2 +1,2 @@
 ﻿<h1>typeScript-45-tasks</h1>
- <p>It will be very easy for your next quarter. </p>
+ <p>I have completed all the asignments, perhaps the numbering is wrong </p>
